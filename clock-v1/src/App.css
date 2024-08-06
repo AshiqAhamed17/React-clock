@@ -1,0 +1,12 @@
+body {
+  background-color: #000000; /* Black background */
+  color: #E0E0E0; /* Light gray text color for general readability */
+  font-family: Arial, sans-serif; /* Set a clean, readable font */
+  margin: 0;
+  padding: 0;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #FFD700; /* Gold color for headings */
+}

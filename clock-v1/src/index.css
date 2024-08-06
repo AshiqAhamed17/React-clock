@@ -1,0 +1,25 @@
+body {
+    background-color: #000000; /* Black background */
+    color: #E0E0E0; /* Light gray text color for general readability */
+    font-family: Arial, sans-serif; /* Set a clean, readable font */
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: #a3d8ea;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #98FF98; /* Gold color for headings */
+}
+
+button {
+    background-color: #32CD32; /* Lime green background for buttons */
+    color: #FFFFFF; /* White text color for buttons */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
